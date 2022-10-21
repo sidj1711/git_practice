@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>DocumentCheckListHistoryClass</members>
+		<members>DocumentChecklistItemController</members>
+		<members>PL_OpportunityBeforeUpdateTriggerHandler</members>
+		<members>PL_docChkItemsAfterUpdateTriggerHandTest</members>
+		<members>PL_docChkItemsAfterUpdateTriggerHandler</members>
+		<members>approvalprocessController</members>
+		<members>approverRequestsListViewController</members>
+		<members>approverRequestsListViewControllertest</members>
+		<name>ApexClass</name>
+	</types>
+	<types>
+		<members>ApprovalProcessComponent</members>
+		<name>ApexComponent</name>
+	</types>
+	<types>
+		<members>Opportunity.Rejection_Date__c</members>
+		<members>Opportunity.Stage_change_Date__c</members>
+		<name>CustomField</name>
+	</types>
+	<types>
+		<members>unfiled$public/Loan_APP_Rate_Approval</members>
+		<name>EmailTemplate</name>
+	</types>
+	<types>
+		<members>stage_wise_date</members>
+		<name>Flow</name>
+	</types>
+	<types>
+		<members>Case-FIV Office</members>
+		<members>Case-FIV Office Mobile</members>
+		<members>Case-FIV Office Mobile Read</members>
+		<name>Layout</name>
+	</types>
+	<types>
+		<members>approverRequestsListView</members>
+		<members>linkForIncomeAndObligation</members>
+		<name>LightningComponentBundle</name>
+	</types>
+	<types>
+		<members>IncidentWithFieldsInDetailedView/Incident_With_Detailed_View_xfn</members>
+		<members>YBLPLCPAReport/Stage_Status_Report_for_CPA_10l</members>
+		<name>Report</name>
+	</types>
+	<types>
+		<members>Account.Restrict_SpChars_Work_Email</members>
+		<members>Account.SpecialCharNotallowPersonalEmail</members>
+		<members>Opportunity.FI_Status_Mandatory</members>
+		<name>ValidationRule</name>
+	</types>
+	<version>55.0</version>
+</Package>
